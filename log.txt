@@ -1,3 +1,5 @@
+20200804：
+1	更新颜色追踪(ColorTracker.bin)与运动追踪(MotionTracker.bin)为json版本
 20200730-2：
 1	添加二维码识别固件“findqrcode.bin”，本固件为json数据包格式，请参阅功能说明文档
 20200730：
