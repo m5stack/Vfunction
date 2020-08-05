@@ -1,3 +1,10 @@
+20200805-3：
+1	修复颜色追踪与运动检测的JSON传输BUG
+20200805-2：
+1	更新人脸识别（facedetect.bin），每个json数据包后新增\r\n\x00\x00\x00\x00\x00\x00
+2	更新寻找二维码（findqrcode.bin）为（findcode.bin），固件内新增3种不同类型的码识别功能，详情参阅功能说明文档。
+20200805：
+1	更新目标追踪（TargetTracker.bin）为json版本
 20200804：
 1	更新颜色追踪(ColorTracker.bin)与运动追踪(MotionTracker.bin)为json版本
 20200730-2：
